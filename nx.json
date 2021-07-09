@@ -33,6 +33,9 @@
     "alphaproject-e2e": {
       "tags": [],
       "implicitDependencies": ["alphaproject"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
